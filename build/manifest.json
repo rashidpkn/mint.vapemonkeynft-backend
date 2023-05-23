@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "MINT Vape Monkey NFT",
+  "name": "Introducing Vape Monkey NFTs – the newest addition to our collection of digital art! These unique, one-of-a-kind items are perfect for collectors and vape enthusiasts alike. Each NFT features a different Vape Monkey design, And gives a 5%,10%,15% or 20% discount.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,13 +8,13 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
+      "src": "favicon.ico",
+      "type": "image/x-icon",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
+      "src": "favicon.ico",
+      "type": "image/x-icon",
       "sizes": "512x512"
     }
   ],
