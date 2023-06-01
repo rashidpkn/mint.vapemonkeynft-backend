@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.f49a05d2.css",
-    "main.js": "/static/js/main.ed0455a7.js",
+    "main.css": "/static/css/main.0809cb5d.css",
+    "main.js": "/static/js/main.ae79ca8c.js",
     "static/media/footer.png": "/static/media/footer.eaa8388a85f15d1446c3.png",
+    "static/media/nft.svg": "/static/media/nft.238c6d5d859264f403541ea2f14e1e24.svg",
+    "static/media/ETH.svg": "/static/media/ETH.83e6c21587b914f6c6f94564f0948f89.svg",
+    "static/media/ETH-buy.png": "/static/media/ETH-buy.6ed7018b9886ca522fb2.png",
+    "static/media/metaMask-download.png": "/static/media/metaMask-download.f0a985aeb9332c6cec69.png",
+    "static/media/metaMask.svg": "/static/media/metaMask.e3b228ad4813122b14969f5c2d375c6b.svg",
+    "static/media/redeem.svg": "/static/media/redeem.59a3a13b5d3362de351491c6a256e8ad.svg",
     "index.html": "/index.html",
-    "main.f49a05d2.css.map": "/static/css/main.f49a05d2.css.map",
-    "main.ed0455a7.js.map": "/static/js/main.ed0455a7.js.map"
+    "main.0809cb5d.css.map": "/static/css/main.0809cb5d.css.map",
+    "main.ae79ca8c.js.map": "/static/js/main.ae79ca8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f49a05d2.css",
-    "static/js/main.ed0455a7.js"
+    "static/css/main.0809cb5d.css",
+    "static/js/main.ae79ca8c.js"
   ]
 }
